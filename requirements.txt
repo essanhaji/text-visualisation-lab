@@ -1,0 +1,4 @@
+python-bidi
+arabic-reshaper
+scattertext
+spacy
